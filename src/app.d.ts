@@ -11,3 +11,4 @@ declare global {
 }
 
 export {};
+// See https://kit.svelte.dev/docs/types#app

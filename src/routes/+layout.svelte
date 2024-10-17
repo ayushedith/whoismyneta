@@ -140,3 +140,4 @@
 		@apply text-neutral-900;
 	}
 </style>
+// src/routes/+layout.svelte

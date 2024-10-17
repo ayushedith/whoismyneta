@@ -45,3 +45,4 @@ function getConstituenciesByState(state) {
 function getConstituencyDataBySlug(slug) {
 	return data.find((constituencyData) => slugify(constituencyData.ls_seat_name) === slug);
 }
+// TODO: Add error handling
