@@ -16,3 +16,9 @@ h1, h2, h3 {
   width: 100%;
   max-width: 500px;
 }
+/* // @media (min-width: 768px) {
+//   .search-container .dropdown{
+//     width: 100%;
+//     max-width: 500px;
+//   }
+// } */
