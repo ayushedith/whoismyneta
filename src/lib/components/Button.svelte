@@ -9,5 +9,5 @@
 	on:click={() => window.open(link, '_blank')}
 	classes={{
 		root: 'bg-primary-500 hover:bg-primary-600 text-white'
-	}}>Learn more</Button
+	}}>Read more</Button
 >
